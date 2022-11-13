@@ -1,5 +1,5 @@
-length = int(input("Enter the length:"))
-width = int(input("Enter the width:"))
-print("P:", length ** 2 + width ** 2)
+a = int(input("Enter the length:"))
+b = int(input("Enter the width:"))
+print("P:", a ** 2 + b ** 2)
 print(input("To exit, press Enter:"))
 quit()
